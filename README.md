@@ -1,0 +1,3 @@
+# qttranslate
+gametran
+starting
